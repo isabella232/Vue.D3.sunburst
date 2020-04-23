@@ -260,6 +260,7 @@ export default {
         })
         .merge(pathes)
         .style("fill", d => colorGetter(d.data))
+        .style('stroke', '#fff')
         .transition("enter")
         .duration(this.inAnimationDuration)
         .attrTween("d", function(d, index) {
