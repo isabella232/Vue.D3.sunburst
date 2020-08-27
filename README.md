@@ -1,6 +1,7 @@
 # Vue.D3.Sunburst
 
-[![GitHub open issues](https://img.shields.io/github/issues/David-Desmaisons/Vue.D3.sunburst.svg?maxAge=30)](https://github.com/David-Desmaisons/Vue.D3.sunburst/issues)
+[![GitHub open issues](https://img.shields.io/github/issues/David-Desmaisons/Vue.D3.sunburst.svg?maxAge=30)](https://github.com/David-Desmaisons/Vue.D3.sunburst/issues)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2FVue.D3.sunburst.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2FVue.D3.sunburst?ref=badge_shield)
+
 [![Npm version](https://img.shields.io/npm/v/vue-d3-sunburst.svg?maxAge=2)](https://www.npmjs.com/package/vue-d3-sunburst)
 [![MIT License](https://img.shields.io/github/license/David-Desmaisons/Vue.D3.sunburst.svg)](https://github.com/David-Desmaisons/Vue.D3.sunburst/blob/master/LICENSE)
 
@@ -399,3 +400,7 @@ npm run test:unit
 ```
 npm run doc:build
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2FVue.D3.sunburst.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2FVue.D3.sunburst?ref=badge_large)
